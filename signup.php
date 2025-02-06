@@ -49,3 +49,9 @@
         <button class="log"> REGISTER</button><br><br>
         <h3>Already have an account? <a href="login.php">Log In!</a></h3>
 </section>
+
+<footer>
+Copywrite @ Yunisha's Project <?php echo date('Y'); ?>
+</footer>
+</body>
+</html>

@@ -96,3 +96,8 @@ input {
 .radio-group label{
     background-color: rgba(215, 211, 211, 0.18);
 }
+footer{
+    background-color: rgba(215, 211, 211, 0.616);
+    text-align: center;
+    color: #67645e;
+}
